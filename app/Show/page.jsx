@@ -11,7 +11,7 @@ function Show() {
     const { employees, remove, setSelectedEmployee } = useEmployee();
   return (
       <>
-          <div className='bg-gradient-to-b from-blue-500 to-purple-600 h-full w-full  lg:flex gap-2  text-center'>
+          <div className='bg-gradient-to-b from-blue-500 to-purple-600 h-[100vh] w-full  lg:flex gap-2  text-center'>
               
               {employees.map(emp => (
                   <div className='bg-white/20 backdrop-blur-md text-white border border-white/30 h-[40vh] my-14'
@@ -37,3 +37,4 @@ function Show() {
 
 
 export default Show
+
