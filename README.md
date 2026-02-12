@@ -20,7 +20,7 @@ A modern Employee Management System built using **Next.js (App Router)** and **R
 
 ### 1️⃣ Home Page
 ![Data input page](https://github.com/09singh/Employee-Management-System-/blob/0e2aa4065f20cf05e2315426ba79b996fddcb1c0/Screenshot%202026-02-13%20032938.png)
-
+![Data Submit ](./public/screenshots/add-employee.png)
 ### 2️⃣ Add Employee Page
 ![Data add and remove page](./public/screenshots/add-employee.png)
 
