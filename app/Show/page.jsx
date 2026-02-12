@@ -6,7 +6,7 @@ function Show() {
     const router = useRouter();
     const handeledit = (emp) => {
         setSelectedEmployee(emp);
-        router.push("/Form");
+        router.push("/form");
     }
     const { employees, remove, setSelectedEmployee } = useEmployee();
   return (
@@ -37,4 +37,5 @@ function Show() {
 
 
 export default Show
+
 
