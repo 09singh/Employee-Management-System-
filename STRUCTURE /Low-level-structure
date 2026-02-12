@@ -1,0 +1,19 @@
+Employee-Managment-System/
+│
+├── app/
+│   ├── page.tsx              → Main page (Form + Show render)
+│   │
+│   ├── component/
+│   │     └── page.jsx        → Form component
+│   │
+│   ├── show/
+│   │     └── page.jsx        → Show employees
+│   │
+│   └── context/
+│         └── page.jsx        → Employee Context API
+│
+├── public/
+│
+├── package.json
+├── next.config.js
+
