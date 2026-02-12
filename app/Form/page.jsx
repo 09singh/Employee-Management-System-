@@ -1,6 +1,6 @@
 "use client"
 import React, { useState,useEffect} from 'react'
-import { useEmployee } from "../context/page";
+import { useEmployee } from "@/context/page";
 import Link from "next/link";
 function FORM() {
     const { addemployee, editemployee, selectedEmployee } = useEmployee();
@@ -94,5 +94,6 @@ function FORM() {
       </>
   )
 }
+
 
 export default FORM
