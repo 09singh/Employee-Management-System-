@@ -1,6 +1,6 @@
 "use client"
 import React from 'react'
-import { useEmployee } from "../context/page";
+import { useEmployee } from "@/context/page";
 import { useRouter } from "next/navigation";
 function Show() {
     const router = useRouter();
@@ -34,5 +34,6 @@ function Show() {
       </>
   )
 }
+
 
 export default Show
