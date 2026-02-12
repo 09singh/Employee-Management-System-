@@ -89,10 +89,11 @@ function FORM() {
           </div>
           </div>
           <div className='flex justify-center items-center bg-purple-600'>
-              <Link href="/show"><button className="bg-cyan-900 hover:bg-cyan-400  w-28 h-11 mx-36 my-4">SHOW LIST</button></Link></div>
+              <Link href="/Show"><button className="bg-cyan-900 hover:bg-cyan-400  w-28 h-11 mx-36 my-4">SHOW LIST</button></Link></div>
           
       </>
   )
 }
+
 
 export default FORM
