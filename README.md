@@ -4,16 +4,40 @@ A modern Employee Management System built using **Next.js (App Router)** and **R
 
 ---
 
-## 📌 Features
+## 🚀 Features
 
-- ➕ Add Employee
-- 📋 View Employees
-- ✏️ Edit Employee Details
-- ❌ Delete Employee
-- ⚡ Instant UI Update using Context API
-- 🎨 Clean and Responsive UI
+- **Full CRUD Operations:**  
+  Add, view, edit, and delete employees seamlessly.
+
+- **Dynamic Skills:**  
+  HR/Admin can add multiple skills per employee dynamically.
+
+- **Custom Attributes:**  
+  Add any number of dynamic fields such as “Experience Level”, “Certifications”, or “Joining Source”.
+
+- **Editable Form:**  
+  Pre-fills the form with existing employee data when editing.
+
+- **Responsive UI:**  
+  Modern, clean layout with mobile-friendly design.
+
+- **Dynamic Form Height:**  
+  Form container grows automatically as more skills or attributes are added.
+
+- **Real-time Validation:**  
+  Ensures all mandatory fields are filled before submission.
+
+- **Visual Feedback:**  
+  Distinct colored buttons for actions: green for adding, red for removing.
+
+- **Show Page:**  
+  Displays all employee details including skills and dynamic attributes in organized badges.
+
+- **Flexible Styling:**  
+  Built using Tailwind CSS (can be converted to plain CSS), supporting gradients, badges, and hover effects.
 
 ---
+
 ## 🖼 Application Screenshots
 
 ### 1️⃣ Home Page
@@ -28,7 +52,7 @@ A modern Employee Management System built using **Next.js (App Router)** and **R
 - Next.js 16 (App Router)
 - React
 - Context API
-- Tailwind CSS (if used)
+- Tailwind CSS
 - Vercel (Deployment)
 
 ---
