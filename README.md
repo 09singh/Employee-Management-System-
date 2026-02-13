@@ -2,8 +2,6 @@
 
 A modern Employee Management System built using **Next.js (App Router)** and **React Context API** for state management.
 
-🔗 Live Demo: https://employee-management-system-akid.vercel.app/
-
 ---
 
 ## 📌 Features
