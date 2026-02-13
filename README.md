@@ -13,7 +13,7 @@ A modern Employee Management System built using **Next.js (App Router)** and **R
   HR/Admin can add multiple skills per employee dynamically.
 
 - **Custom Attributes:**  
-  Add any number of dynamic fields such as “Experience Level”, “Certifications”, or “Joining Source”.
+  Add any number of dynamic fields such as “Experience Level”, or “Joining Source”.
 
 - **Editable Form:**  
   Pre-fills the form with existing employee data when editing.
@@ -53,7 +53,6 @@ A modern Employee Management System built using **Next.js (App Router)** and **R
 - React
 - Context API
 - Tailwind CSS
-- Vercel (Deployment)
 
 ---
 ## ⚙️ Installation & Setup
