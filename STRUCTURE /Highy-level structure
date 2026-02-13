@@ -2,8 +2,8 @@ Employee Management System (Next.js App)
 
 ├── UI Layer (Frontend)
 │     ├── Form Component
-│     ├── Show Component
-│     └── Main Page
+│     |── Show Component
+│   
 │
 ├── State Management
 │     └── Context API (Employee Context)
@@ -14,4 +14,4 @@ Employee Management System (Next.js App)
 └── Build & Deployment
       ├── package.json
       ├── next.config.js
-      └── netlify.toml (if using Netlify)
+      
