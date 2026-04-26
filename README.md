@@ -3,7 +3,7 @@
 A modern Employee Management System built using **Next.js (App Router)** and **React Context API** for state management.
 
 **Live link :** https://employee-managementsystem-745.vercel.app/
-loolllll..
+
 ---
 
 ## 🚀 Features
